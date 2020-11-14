@@ -1,0 +1,22 @@
+div {
+  background-color: #d2f5e3;
+}
+body {
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+.bottom-cloud {
+  position: absolute;
+}
+.container {
+  position: relative;
+  left: 200px;
+  top: 20px;
+}
+.all{
+    padding-top: 50px;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+
+}
